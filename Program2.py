@@ -50,7 +50,9 @@
 #Please write a script that: 
 # - Asks for the user's name and then prints it twice, on two consecutive lines.
 
-
+name = input("What is your name? ")
+print(name)
+print(name)
 
 
 
@@ -60,6 +62,7 @@
 # - Prints it out twice on a single line so that there is an exclamation mark at the beginning of the line, 
 # - another between the two names and a third one at the end of the line.
 
+name = input("What is your name? ")
 
 ## Problem 3 ##
 #Please write a script that: 
